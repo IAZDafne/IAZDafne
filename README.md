@@ -1,13 +1,21 @@
-### Hi there 👋
 
-<!--
-**IAZDafne/IAZDafne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola 👋, Soy Dafne Serrano
+#### Full Stack
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... eVent un proyecto grupal para eventos, para poder gradurme de bootcamp Henry 
-- 🌱 I’m currently learning ... React Redeux NodeJs JavaScript 
-- 👯 I’m looking to collaborate ... En cualquier proeyecto donde pueda practicar mis nuevos conocimientos 
-- 📫 How to reach me: ...tieta922002@hotmail.com, https://www.linkedin.com/in/dafne-serrano-cruz/
+creando diversa aplicaciones webs 
+Lo que hace que me apasione por el desarrollo web es que me gusta solucionar diversos problemas que veo en mi comunidad y esta es una forma de hacerlo.
 
--->
+Habilidades:  Javascript | ReactJs | NodeJs | ExpressJs | PostgreSQL | HTML | CSS,
+
+- 🔭 Estoy trabajando en eVent proyeto dedicado para la divulgacion de eventos  donde los promotores puedan publicitarse, tener reseñas de sus eventos, ver estadisticas de venta  y reservas asi como los usuarios puedan aceder a los eventos de su comunidad, resrvar , poner su reseña y sequir a su promotores favoritos 
+- 🌱 Estoy aprendiendo React 
+- 👯 Quiero colaborar con Proyectos creativos  
+- 💬 Pregúntame acerca de De lo sea si no lo se nos enredamos juntos  
+- 📫 Cómo contactarme: www.linkedin.com/in/dafne-serrano-cruz, tieta922002@hotmail.com 
+- 😄 Pronombres: Dafne 
+
+
+
+
+
