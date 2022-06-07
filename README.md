@@ -14,7 +14,7 @@ Habilidades:  Javascript | ReactJs | NodeJs | ExpressJs | PostgreSQL | HTML | CS
 - 💬 Pregúntame acerca de De lo sea si no lo se nos enredamos juntos  
 - 📫 Cómo contactarme: www.linkedin.com/in/dafne-serrano-cruz, 
 -     tieta922002@hotmail.com 
--     https://portafoliodafne-m961nmhe9-iazdafne.vercel.app/
+-   [  https://portafoliodafne-m961nmhe9-iazdafne.vercel.app/] (https://portafoliodafne-iazdafne.vercel.app/)
 - 😄 Pronombres: Dafne 
 
 
